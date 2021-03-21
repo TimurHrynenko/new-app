@@ -1,4 +1,4 @@
 # new-app
 
-- [Preview](https://your-name.github.io/your-repo/)
-- [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://TimurHrynenko.github.io/new-app/)
+- [Pull Request](https://github.com/TimurHrynenko/new-app/pull/1/files)
